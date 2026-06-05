@@ -14,3 +14,5 @@ A lightweight, high-performance feedforward neural network built entirely from s
 
 ## How to Run Locally
 ```bash
+git clone https://github.com/Modi-code/Neural_Network.git
+cd Neural_Network
