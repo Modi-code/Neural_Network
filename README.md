@@ -8,9 +8,9 @@ A lightweight, high-performance feedforward neural network built entirely from s
 
 ## Structural Architecture
 
-* **Input Layer:** Takes flattened multi-dimensional feature vectors (e.g., a flattened $5 \times 5$ pixel grid into 25 inputs).
-* **Hidden Layers:** Configurable hidden neuron arrays processing abstract feature representations.
-* **Output (Top) Layer:** Generates continuous target prediction vectors mapping to exact classification scores via optimized mathematical convergence.
+Input Layer: Flattens a $5 \times 5$ pixel grid into a 25-element single-dimension array.
+Hidden Layers: Processes structural features and patterns using custom, fully connected neuron arrays.
+Output Layer: Outputs a 10-element prediction vector matching the network's final targeted scores
 
 ## How to Run Locally
 ```bash
